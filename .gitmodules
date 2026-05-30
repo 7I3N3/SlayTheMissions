@@ -1,0 +1,3 @@
+[submodule "spire-codex"]
+	path = spire-codex
+	url = https://github.com/7I3N3/spire-codex.git
