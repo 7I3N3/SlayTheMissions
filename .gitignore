@@ -1,0 +1,16 @@
+# --- Mod Project ---
+**/Mod/.godot/
+**/Mod/android/
+**/Mod/build/
+**/Mod/.tmp/
+**/Mod/**/**.uid
+**/Mod/**/**.sln
+**/Mod/icon.svg
+**/Mod/icon.svg.import
+
+# --- Server Project ---
+**/Server/venv/
+**/Server/__pycache__/
+**/Server/.env
+**/Server/node_modules/
+**/Server/database/
